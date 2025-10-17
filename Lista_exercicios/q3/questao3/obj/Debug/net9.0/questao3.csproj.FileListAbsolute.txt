@@ -1,0 +1,15 @@
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\bin\Debug\net9.0\questao3.exe
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\bin\Debug\net9.0\questao3.deps.json
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\bin\Debug\net9.0\questao3.runtimeconfig.json
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\bin\Debug\net9.0\questao3.dll
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\bin\Debug\net9.0\questao3.pdb
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.AssemblyInfoInputs.cache
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.AssemblyInfo.cs
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.csproj.CoreCompileInputs.cache
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.sourcelink.json
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.dll
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\refint\questao3.dll
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.pdb
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\questao3.genruntimeconfig.cache
+C:\Users\20251038060010\Github\poo-exercises\Lista_exercicios\q3\questao3\obj\Debug\net9.0\ref\questao3.dll

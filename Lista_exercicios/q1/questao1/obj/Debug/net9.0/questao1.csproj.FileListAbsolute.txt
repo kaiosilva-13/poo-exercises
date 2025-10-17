@@ -1,0 +1,14 @@
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\bin\Debug\net9.0\questao1.exe
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\bin\Debug\net9.0\questao1.deps.json
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\bin\Debug\net9.0\questao1.runtimeconfig.json
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\bin\Debug\net9.0\questao1.dll
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\bin\Debug\net9.0\questao1.pdb
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.AssemblyInfoInputs.cache
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.AssemblyInfo.cs
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.csproj.CoreCompileInputs.cache
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.dll
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\refint\questao1.dll
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.pdb
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\questao1.genruntimeconfig.cache
+C:\Users\20251038060010\C#\Lista_exercicios\q1\questao1\obj\Debug\net9.0\ref\questao1.dll

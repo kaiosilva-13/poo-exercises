@@ -11,6 +11,7 @@ namespace questao4
         private int volumeAtual;
         private bool estaLigada;
         private int canaisDisponiveis;
+        private List<int> historico;
 
         public ControleRemoto()
         {
@@ -18,6 +19,7 @@ namespace questao4
             this.volumeAtual = 10;
             this.estaLigada = false;
             this.canaisDisponiveis = 50;
+            this.historico = new List<int>(){canalAtual};
         }
         public void LigarTV()
         {
@@ -61,6 +63,7 @@ namespace questao4
                 {
                     this.AjustarSinal();
                     this.canalAtual = novoCanal;
+                    this.GerenciaHistorico(novoCanal);
                 }
             }
         }
@@ -72,6 +75,7 @@ namespace questao4
                 {
                     this.AjustarSinal();
                     this.canalAtual -= 1;
+                    this.GerenciaHistorico(this.canalAtual);
                 }
                 else
                 {
@@ -87,6 +91,7 @@ namespace questao4
                 {
                     this.AjustarSinal();
                     this.canalAtual += 1;
+                    this.GerenciaHistorico(this.canalAtual);
                 }
                 else
                 {
@@ -127,6 +132,21 @@ namespace questao4
             {
                 Console.WriteLine("TV desligada!");
                 return false;
+            }
+        }
+        private void GerenciaHistorico(int canal)
+        {
+            if(this.historico.Count == 5)
+            {
+                this.historico.RemoveAt(0);
+            }
+            this.historico.Add(canal);
+        }
+        public void MostrarHistorico()
+        {
+            foreach(int canal in this.historico)
+            {
+                Console.WriteLine(canal);
             }
         }
     }
